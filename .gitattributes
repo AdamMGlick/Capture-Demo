@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-Windows Build/Capture Demo Windows_Data/Mono/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx linguist-vendored
-Windows Build/Capture Demo Windows_Data/Mono/etc/mono/1.0/DefaultWsdlHelpGenerator.aspx linguist-vendored
+Windows Build/Capture Demo Windows_Data/* linguist-vendored
