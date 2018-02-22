@@ -3,7 +3,9 @@ Capture Game GitHub Demo
 
 Description
 ------------------------
-This project is a simple demonstration game involving capturing cells by attacking with drones. A simple How To Play section may be viewed in the Options menu (located in the Main menu). Please see the Windows and Android builds included in this repository.
+This project is a simple demonstration game involving capturing cells by attacking with drones. A simple How To Play section may be viewed in the Options menu (located in the Main menu). Please see the Windows and Android builds included in this repository. 
+
+Note: certain debug options within the game are enabled for demo purposes.
 ------------------------
 
 Build Installation
