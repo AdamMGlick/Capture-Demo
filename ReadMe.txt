@@ -3,7 +3,21 @@ Capture Game GitHub Demo
 
 Description
 ------------------------
-This project is a simple demonstration game involving capturing cells by attacking with drones. A simple How To Play section may be viewed in the Options menu (located in the Main menu). Please see the Windows and Android build included in this repository.
+This project is a simple demonstration game involving capturing cells by attacking with drones. A simple How To Play section may be viewed in the Options menu (located in the Main menu). Please see the Windows and Android builds included in this repository.
+------------------------
+
+Build Installation
+------------------------
+Windows: 
+1. Place the Capture_Windows_Build folder on a Windows machine. 
+2. Run the "Capture Demo Windows.exe" file in the folder. 
+3. Hit "Play!" button in configuration window.
+
+Android (Dev Mode must be enabled):
+1. Place the Capture_Android_Build folder on an Android device, making note of the location.
+2. Run the "Capture Demo Android.apk" file in the folder.
+3. Hit "Install."
+4. Once app is installed, hit "Open" to play the game.
 ------------------------
 
 
